@@ -43,14 +43,14 @@
     "blueimp-tmpl": "3"
   },
   "devDependencies": {
-    "eslint": "6",
+    "eslint": "9",
     "eslint-config-blueimp": "1",
     "eslint-config-prettier": "6",
-    "eslint-plugin-jsdoc": "15",
+    "eslint-plugin-jsdoc": "61",
     "eslint-plugin-prettier": "3",
     "mocha-chrome": "2",
     "prettier": "1",
-    "stylelint": "10",
+    "stylelint": "16",
     "stylelint-config-prettier": "5",
     "stylelint-config-recommended": "2"
   },
