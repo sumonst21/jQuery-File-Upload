@@ -43,7 +43,7 @@
     "blueimp-tmpl": "3"
   },
   "devDependencies": {
-    "eslint": "6",
+    "eslint": "9",
     "eslint-config-blueimp": "1",
     "eslint-config-prettier": "6",
     "eslint-plugin-jsdoc": "15",
